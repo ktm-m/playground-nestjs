@@ -1,0 +1,48 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Build directories
+dist
+build
+
+# OS files
+.DS_Store
+
+# IDEs and editors
+.idea
+.vscode
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# dotenv environment variable files
+.env*
+.env
+
+# Temp directories
+.temp
+.tmp
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Data
+data/
+note.md
+README.md

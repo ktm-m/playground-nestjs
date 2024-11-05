@@ -27,6 +27,7 @@ yarn add dependencies
 ```bash
 nest g module module-name
 ```
+
 g is short for generate
 
 #### Create new controller
