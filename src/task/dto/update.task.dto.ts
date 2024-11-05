@@ -1,9 +1,9 @@
-import {IsOptional} from "class-validator";
+import { IsOptional } from 'class-validator';
 
 export class UpdateTaskDto {
-    @IsOptional()
-    title?: string;
+  @IsOptional()
+  title?: string;
 
-    @IsOptional()
-    description?: string;
+  @IsOptional()
+  description?: string;
 }
